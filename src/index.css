@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@layer base {
+  html, body, #root {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    font-family: 'Archivo', sans-serif;
+    background-color: #ffffff;
+    color: #0F0F0F;
+  }
+}
+
+/* Custom scrollbar hiding if needed */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

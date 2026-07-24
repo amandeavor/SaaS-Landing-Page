@@ -1,0 +1,26 @@
+{
+  "name": "saas",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node node_modules/vite/dist/node/cli.js",
+    "build": "node node_modules/vite/dist/node/cli.js build",
+    "preview": "node node_modules/vite/dist/node/cli.js preview"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^24.13.2",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "framer-motion": "^12.42.2",
+    "lucide-react": "^0.474.0",
+    "postcss": "^8.5.22",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^5.9.3",
+    "vite": "^5.4.14"
+  }
+}
