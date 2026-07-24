@@ -2,6 +2,8 @@
 
 > A modern, ultra-sleek, Apple-inspired SaaS landing page built for **MemberFlow** — an AI-powered membership platform for creators, founders, and digital communities.
 
+🔗 **[Live Demo on Netlify](https://saas-landingpage-amandeavor.netlify.app/)**
+
 ![MemberFlow Preview](preview.png)
 
 ---
@@ -15,6 +17,12 @@
 - 🎬 **Interactive Hero & Video Modal**: Crisp 16:9 dashboard preview with custom play overlay and full-screen Framer Motion video modal backdrop.
 - ⚡ **Social Proof & Dual Marquee**: Google rating card (4.9/5 stars) combined with dual-direction infinite sliding company logos (`Unbounce`, `HubSpot`, `Autodesk`, `Typeform`, `Vermeer`, `Outsystems`).
 - 📱 **100% Fully Responsive**: Pixel-perfect layout adaptation across mobile, tablet, and ultra-wide desktops.
+
+---
+
+## 🌐 Live Demo
+
+Visit the deployed website: **[https://saas-landingpage-amandeavor.netlify.app/](https://saas-landingpage-amandeavor.netlify.app/)**
 
 ---
 
