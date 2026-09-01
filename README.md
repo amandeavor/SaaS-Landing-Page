@@ -1,44 +1,99 @@
+<div align="center">
+
 # MemberFlow Landing Page
 
-A responsive marketing-site concept for a fictional membership platform.
+**High-converting, editorial SaaS marketing landing page concept with fluid motion.**
 
-## Live demo
+[**View Live Demo: saas-landingpage-amandeavor.netlify.app →**](https://saas-landingpage-amandeavor.netlify.app)
 
-[saas-landingpage-amandeavor.netlify.app](https://saas-landingpage-amandeavor.netlify.app)
+[![Live Demo](https://img.shields.io/badge/demo-live%20preview-000000?style=flat&logo=netlify&logoColor=white)](https://saas-landingpage-amandeavor.netlify.app)
+[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-5.0-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Framer Motion](https://img.shields.io/badge/Motion-Framer-FF0055?logo=framer&logoColor=white)](https://www.framer.com/motion/)
+[![CI Status](https://img.shields.io/github/actions/workflow/status/amandeavor/SaaS-Landing-Page/ci.yml?branch=main&label=CI)](https://github.com/amandeavor/SaaS-Landing-Page/actions/workflows/ci.yml)
 
-![MemberFlow preview](preview.png)
+<p align="center">
+  <a href="#overview">Overview</a> •
+  <a href="#visual-preview">Preview</a> •
+  <a href="#key-capabilities">Capabilities</a> •
+  <a href="#quickstart">Quickstart</a> •
+  <a href="#guidelines">Guidelines</a>
+</p>
 
-## Technology
+</div>
 
-- React and TypeScript
-- Vite
-- Tailwind CSS
-- Framer Motion
-- Lucide icons
-- Netlify configuration
+---
 
-## Local development
+## Overview
+
+`MemberFlow` is an editorial, modern SaaS marketing site designed for recurring membership and subscription platforms. It emphasizes conversion-focused information architecture, responsive asymmetric bento layouts, high-contrast typography, and fluid micro-interactions.
+
+---
+
+## Visual Preview
+
+<div align="center">
+  <img src="./preview.png" alt="MemberFlow Marketing Landing Page Interface" width="100%" />
+</div>
+
+---
+
+## Key Capabilities
+
+| Component | Architecture & Design Highlights |
+| :--- | :--- |
+| **Hero Conversion Section** | Compelling value proposition with tight tracking typography and social proof validation badges. |
+| **Feature Bento Grid** | Responsive asymmetric grid showcasing product capabilities with subtle hover states. |
+| **Dynamic Pricing Switcher** | Interactive Monthly vs. Annual billing toggle with real-time discount calculations. |
+| **Interactive Testimonials** | Smooth customer review carousel highlighting key customer metrics. |
+| **Call-to-Action Finale** | High-contrast registration funnel with conversion-optimized action buttons. |
+
+---
+
+## Quickstart
+
+### Prerequisites
+- Node.js `18+` LTS
+- npm `9+`
+
+### Setup
 
 ```bash
-git clone https://github.com/amandeavor/saas-landing-page.git
-cd saas-landing-page
+# 1. Clone repository
+git clone https://github.com/amandeavor/SaaS-Landing-Page.git
+cd SaaS-Landing-Page
+
+# 2. Install dependencies
 npm install
+
+# 3. Launch local dev server
 npm run dev
 ```
 
-## Build
+---
+
+## Available Commands
 
 ```bash
+# Production Vite build
 npm run build
+
+# Preview production build locally
 npm run preview
 ```
 
-## Contributing and Governance
+---
+
+## Community & Guidelines
 
 - [Contributing Guide](CONTRIBUTING.md)
 - [Security Policy](SECURITY.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 
-## Notes
+---
 
-This is a frontend design and implementation sample. It does not include a membership backend, authentication, payments, or a real customer dataset. All rights reserved.
+## Notes & License
+
+This repository is a frontend engineering and design demonstration. It does not include backend auth, real billing APIs, or customer databases. All rights reserved.
