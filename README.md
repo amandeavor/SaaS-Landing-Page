@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/assets/social-preview.png" alt="MemberFlow: a considered membership experience" width="100%">
+
 # MemberFlow Landing Page
 
 **High-converting, editorial SaaS marketing landing page concept with fluid motion.**
