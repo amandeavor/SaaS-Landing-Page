@@ -1,0 +1,15 @@
+name: Feature Request / Design Proposal
+description: Propose an improvement to layout or animations
+labels: ["enhancement", "needs-discussion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Propose a design enhancement.
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal Description
+      description: Detail the proposed change.
+    validations:
+      required: true

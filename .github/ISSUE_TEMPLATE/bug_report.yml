@@ -1,0 +1,15 @@
+name: Bug Report
+description: Report a visual, layout, or responsiveness bug
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting an issue.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Description
+      description: Describe what is broken or not rendering correctly.
+    validations:
+      required: true

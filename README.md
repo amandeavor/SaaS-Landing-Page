@@ -33,6 +33,12 @@ npm run build
 npm run preview
 ```
 
+## Contributing and Governance
+
+- [Contributing Guide](CONTRIBUTING.md)
+- [Security Policy](SECURITY.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+
 ## Notes
 
-This is a frontend design and implementation sample. It does not include a membership backend, authentication, payments, or a real customer dataset.
+This is a frontend design and implementation sample. It does not include a membership backend, authentication, payments, or a real customer dataset. All rights reserved.
