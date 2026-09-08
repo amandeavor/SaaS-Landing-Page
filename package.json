@@ -10,17 +10,17 @@
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.3.3",
-    "@types/node": "^24.13.2",
-    "@types/react": "^19.0.0",
-    "@types/react-dom": "^19.0.0",
-    "@vitejs/plugin-react": "^4.3.4",
-    "framer-motion": "^12.42.2",
-    "lucide-react": "^0.474.0",
-    "postcss": "^8.5.22",
+    "@types/node": "^26.4.1",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "framer-motion": "^13.2.0",
+    "lucide-react": "^1.41.0",
+    "postcss": "^8.5.28",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "tailwindcss": "^4.3.3",
-    "typescript": "^5.9.3",
-    "vite": "^5.4.14"
+    "typescript": "^7.0.2",
+    "vite": "^8.2.2"
   }
 }
